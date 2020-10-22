@@ -1,0 +1,3 @@
+spring security + OAuth2
+
+https://www.bilibili.com/video/BV1EE411u7YV?from=search&seid=2238015304884154202

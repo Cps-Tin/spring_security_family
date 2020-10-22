@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: peish
+Build-Jdk: 1.8
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: com.itheima
+Main-Class: ${start-class}
+
